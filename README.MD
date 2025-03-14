@@ -112,5 +112,5 @@ If you have any questions or suggestions, feel free to reach out!
 
 ### Author 👤
 **Manish Pandey**  
-Passionate about DevOps, Cloud Engineering, and NLP. Let’s build something amazing together!
+Curious tinkerer & AI advocate | Platform Engineer | Multi-cloud (AWS, GCP) | Automation & Security | Terraform, Ansible, Jenkins | K8s, Docker, EFK | Building scalable platforms | Open to collaboration & innovation
 
